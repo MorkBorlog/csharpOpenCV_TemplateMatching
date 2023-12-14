@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharpOpenCV_TemplateMatching", "csharpOpenCV_TemplateMatching\csharpOpenCV_TemplateMatching.csproj", "{9529273C-3F25-4DD7-BEC8-D42678D4EDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9529273C-3F25-4DD7-BEC8-D42678D4EDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9529273C-3F25-4DD7-BEC8-D42678D4EDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9529273C-3F25-4DD7-BEC8-D42678D4EDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9529273C-3F25-4DD7-BEC8-D42678D4EDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C38165-B751-47A3-8E2D-517FC3E9B280}
+	EndGlobalSection
+EndGlobal
